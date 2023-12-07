@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="briefcase" horiz-adv-x="1000" unicode="&#x13ad3;" d="M916 227l0-163c0-43-34-79-76-82l-5 0-653 0c-43 0-79 34-82 76l0 6 0 163 0-5c3-41 36-74 76-76l6-1 653 0c43 0 78 34 81 77l0 5z" />
+<glyph glyph-name="briefcase" horiz-adv-x="1000" unicode="&#x13ad2;" d="M427 717l163 0c45 0 79-32 81-76l0-6 0-41 164 0c43 0 78-34 81-76l0-5 0-245c0-43-34-79-76-82l-5 0-653 0c-43 0-79 34-82 76l0 6 0 245c0 43 34 78 76 81l6 0 163 0 0 41c0 45 32 79 76 82l6 0z m81-368c-24 0-41-16-41-40 0-25 17-41 41-41 25 0 41 16 41 41 0 24-16 40-41 40z m82 286l-163 0 0-41 163 0 0 41z" />
+</font>
+</defs>
+</svg>
